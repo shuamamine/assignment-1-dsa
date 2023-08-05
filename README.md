@@ -10,7 +10,7 @@ Print the pattern
     * * * * 
     * * * * * 
     ```
-    Solution &nbsp; : &nbsp; [C](c/q1.c) &nbsp;, &nbsp; Python <br>
+    Solution &nbsp; : &nbsp; [C](c/q1.c) &nbsp;, &nbsp; [Python](python/q1.py) <br>
 2.  ```
        A 
       B B 
