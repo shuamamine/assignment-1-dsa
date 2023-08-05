@@ -24,7 +24,7 @@ Print the pattern
       4 5 6 
      7 8 9 10 
     ```
-    Solution &nbsp; : &nbsp; [C](c/q1.c) &nbsp;, &nbsp; Python <br>
+    Solution &nbsp; : &nbsp; [C](c/q3.c) &nbsp;, &nbsp; Python <br>
 4. Consider the given series and calculate the summation up-to ‘N’ number.   
    1+1+4+9+25+64+ .......... + N  
    Solution &nbsp; : &nbsp; C &nbsp;, &nbsp; Python <br>
