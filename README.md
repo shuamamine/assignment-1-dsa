@@ -17,7 +17,7 @@ Print the pattern
      C C C 
     D D D D 
     ```
-    Solution &nbsp; : &nbsp; C &nbsp;, &nbsp; Python <br>
+    Solution &nbsp; : &nbsp; [C](c/q2.c) &nbsp;, &nbsp; Python <br>
 3.  ```
         1 
        2 3 
