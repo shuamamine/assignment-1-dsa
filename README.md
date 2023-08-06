@@ -29,7 +29,7 @@ Print the pattern
    1+1+4+9+25+64+ .......... + N  
    Solution &nbsp; : &nbsp; [C](c/q4.c) &nbsp;, &nbsp; [Python](python/q4.py) <br>
 5. Write a program to insert a new element in array at given location k.  
-   Solution &nbsp; : &nbsp; C &nbsp;, &nbsp; [Python](python/q5.py) <br>
+   Solution &nbsp; : &nbsp; [C](c/q5.c) &nbsp;, &nbsp; [Python](python/q5.py) <br>
 6. Write a program to delete an element from array.  
    Solution &nbsp; : &nbsp; C &nbsp;, &nbsp; [Python](python/q6.py) <br>
 7. Write a program to remove duplicate elements from array.  
