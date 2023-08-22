@@ -1,4 +1,4 @@
-# assignment 1 of Data Structures and Algorithms 
+# assignment 1 of Data Structures and Algorithms Laboratory 
 assignment 1 of dsa lab in c and python
 
 # Questions 
